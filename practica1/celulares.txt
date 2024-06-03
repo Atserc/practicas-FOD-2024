@@ -1,0 +1,30 @@
+1001 Smartphone_con_pantalla_OLED Apple 999
+20 25
+iPhone_12
+1002 Súper_cámara_y_pantalla_AMOLED Samsung 899
+15 10
+Samsung_Galaxy
+1003 Cámara_excepcional Google 799
+25 20
+Google_Pixel_5
+1004 Rápido_y_fluido OnePlus 899
+30 28
+OnePlus_9_Pro
+1005 Potente_y_asequible Xiaomi 699
+10 5
+Xiaomi_Mi_11
+1006 Fotografía_de_nivel Huawei 899
+15 15
+Huawei_P40_Pro
+1007 Pantalla_CinemaWide Sony 799
+10 8
+Sony_Xperia_5
+1008 Diseño_elegante LG 749
+20 18
+LG_Velvet
+1009  Batería_de_larga_duración Motorola 899
+25 22
+Motorola_Edge
+1010 Potencia_para_juegos ASUS 999
+30 35
+ASUS_ROG_Phone_3
