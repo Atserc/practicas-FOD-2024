@@ -62,6 +62,7 @@ Begin
 						writeln('idUsuario ', dato.idUsuario, ' ', dato.tiempo);
 						writeln('------');
 						totDia := totDia + dato.tiempo;
+						leer(arch,dato);
 					end;
 					writeln('Tiempo total acceso dia ', dato.dia, ' mes ', dato.mes, ': ', totDia);
 					writeln('------');

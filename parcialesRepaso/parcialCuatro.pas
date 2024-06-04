@@ -48,7 +48,7 @@ procedure agregarDinosaurios(var a : tArchDinos; registro : recordDinos);
 		read(a,primer);
 		
 		if (primer.cod = 0) then begin
-			seek(a,fileSize(a));
+			seek(a,filesize(a) -1);
 			write(a,registro);
 		end else begin
 			pos := primer.cod;
