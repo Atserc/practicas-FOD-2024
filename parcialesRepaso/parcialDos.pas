@@ -102,7 +102,7 @@ procedure eliminarEmpleado(var arch : archivoEmpleados);
 			seek(arch,0);
 			read(arch,primer);
 			read(arch,aux);
-			while (aux.dni <> primer.dni) do
+			while (aux.dni <> dniBorrar) do
 				read(arch,aux);
 			pos := FilePos(arch)-1;
 			seek(arch,pos);
